@@ -4,7 +4,7 @@ var left_press = keyboard_check(vk_left) || keyboard_check(ord("A"));
 var right_press = keyboard_check(vk_right) ||keyboard_check(ord("D"));
 
 var jump_press = keyboard_check_pressed(vk_space);
-var jump_hold = keyboard_check(vk_space)
+var jump_held = keyboard_check(vk_space)
 var down_press = keyboard_check(vk_down) || keyboard_check(ord("W"));
 var up_press = keyboard_check(vk_up) || keyboard_check(ord("S"));
 
