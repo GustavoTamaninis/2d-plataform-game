@@ -1,7 +1,7 @@
 {
   "$GMSprite":"v2",
   "%Name":"s_player_idle",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":31,
   "bbox_left":9,
   "bbox_right":22,
@@ -66,7 +66,7 @@
     },
     "name":"s_player_idle",
     "playback":1,
-    "playbackSpeed":30.0,
+    "playbackSpeed":5.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
